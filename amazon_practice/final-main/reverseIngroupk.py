@@ -1,0 +1,2 @@
+def reverseInGroupsOfk(node):
+    pass
